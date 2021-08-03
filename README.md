@@ -16,6 +16,7 @@
 +- 🌱 Atualmente estudando python.                                        
 +- 🐱‍👤 Facinado por python - sockets.                                            
 +- 💬 Pergunte-me sobre bolsa de valores.
++- 👽 Preciso voltar a codar.
 +- 📫 Como entrar em contato comigo: gustavo_o_@hotmail.com
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
