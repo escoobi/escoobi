@@ -1,16 +1,21 @@
-### Hi there 👋
+### Olá! 👋
 
-<!--
-**escoobi/escoobi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=escoobi&show_icons=true&theme=default)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=escoobi&repo=escoobi)](https://github.com/escoobi/escoobi)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=escoobi)](https://github.com/escoobi/escoobi)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+**escoobi/escoobi**
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
++- 🔭 Atualmente trabalhando com ISP                                   
++- 🌱 Atualemnte estudando python.                                        
++- 🐱‍👤 Facinado por python - sockets.                                            
++- 💬 Pergunte-me sobre bolsa de valores.
++- 📫 Como entrar em contato comigo: gustavo_o_@hotmail.com
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
