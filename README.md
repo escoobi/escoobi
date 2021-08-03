@@ -12,11 +12,10 @@
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-+- 🔭 Atualmente trabalhando com ISP                                   
-+- 🌱 Atualemnte estudando python.                                        
++- 🔭 Sócio Administrador de ISP                                   
++- 🌱 Atualmente estudando python.                                        
 +- 🐱‍👤 Facinado por python - sockets.                                            
 +- 💬 Pergunte-me sobre bolsa de valores.
-
 +- 📫 Como entrar em contato comigo: gustavo_o_@hotmail.com
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
