@@ -15,8 +15,8 @@
 +- 🔭 Sócio Administrador de ISP                                   
 +- 🌱 Atualmente estudando python.                                        
 +- 🐱‍👤 Facinado por python - sockets.                                            
-+- 💬 Pergunte-me sobre bolsa de valores /n
-+- 👽 Preciso voltar a codar.
++- 💬 Pergunte-me sobre bolsa de valores.                                   
++- 👽 Preciso voltar a codar.                                   
 +- 📫 Como entrar em contato comigo: gustavo_o_@hotmail.com
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
