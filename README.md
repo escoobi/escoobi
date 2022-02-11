@@ -1,6 +1,5 @@
 ### Olá! 👋
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=escoobi&repo=escoobi)](https://github.com/escoobi/escoobi)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=escoobi)](https://github.com/escoobi/escoobi)
 
 
