@@ -4,5 +4,5 @@
 
 
 - 💬 Pergunte-me sobre bolsa de valores.                                   
-- 👽 Dev Python.                                   
+- 👽 Dev **Python**.                                   
 - 📫 Como entrar em contato comigo: gustavo_o_@hotmail.com
