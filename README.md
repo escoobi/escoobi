@@ -1,15 +1,21 @@
-### Olá! 👋
+### Helo, my name is Gustavo Oliveira Cardozo from Brazil! 👋
 
 <div align="right">
 <a href="https://www.linkedin.com/in/gustavo-oliveira-cardozo-0258a993/">
+
+  #### **Welcome**, here i am sharing with you not only my evolution in ***dev backend*** career but also my creativity, feel free to comment and explore the contents.🎯📚🚀
+  
   
 ![Badge](https://img.shields.io/static/v1?labelColor=blue&label&message=Linkedin&color=blue&style=for-the-badge&logo=Linkedin)
 </a>
 </div>
 
+<div align="center">
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=escoobi&theme=github_dark)
+</div>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=escoobi)](https://github.com/escoobi/escoobi)
 
-
+**Languages and tools:**
 
 <div align="center">
 <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" title="Git" width="40" height="40"/>
