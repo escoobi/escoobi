@@ -1,18 +1,16 @@
-### Helo, my name is Gustavo Oliveira Cardozo from Brazil! 👋
+## Helo, my name is Gustavo Oliveira Cardozo from Brazil! 👋
+### Welcome, here i am sharing with you not only my evolution in **dev backend** career but also my creativity, feel free to comment and explore the contents.👽
 
-<br/>
-  #### **Welcome**, here i am sharing with you not only my evolution in ***dev backend*** career but also my creativity, feel free to comment and explore the contents.🎯📚🚀
-  ****
 <div align="right">
 <a href="https://www.linkedin.com/in/gustavo-oliveira-cardozo-0258a993/">
   
 ![Badge](https://img.shields.io/static/v1?labelColor=blue&label&message=Linkedin&color=blue&style=for-the-badge&logo=Linkedin)
 </a>
 </div>
-
+<div align="center">
 
   ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=escoobi&theme=github_dark)
-
+</div>
 
 <br/>
 
