@@ -24,6 +24,9 @@
 <img src="https://img.icons8.com/color/48/4a90e2/spring-logo.png" alt="Spring" title="Spring" width="40" height="40"/>
 <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python" title="Python" width="40" height="40"/>
 <img src="https://img.icons8.com/color/48/000000/django" alt="Django" title="Django" width="40" height="40"/>
+<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/pocoo_flask_logo_icon_168045.png" alt="Flask" title="Flask" width="40" height="40"/>
+<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_wordmark_logo_icon_146425.png" alt="MongoDB" title="MongoDB" width="40" height="40"/>
+  
   
 </div>
   
