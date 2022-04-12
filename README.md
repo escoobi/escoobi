@@ -9,7 +9,7 @@
 </div>
 <div align="center">
 
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=escoobi&theme=github_light)
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=escoobi)
 </div>
 
 <br/>
