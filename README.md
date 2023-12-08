@@ -1,4 +1,4 @@
-## Helo, my name is Gustavo Oliveira Cardozo from Brazil! 👋
+## Hello, I'm Gustavo Oliveira Cardozo from Brazil! 👋
 ### Welcome, here i am sharing with you not only my evolution in **dev backend** career but also my creativity, feel free to comment and explore the contents.👽
 
 <div align="right">
